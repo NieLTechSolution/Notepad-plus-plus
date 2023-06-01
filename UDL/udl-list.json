@@ -1,0 +1,14 @@
+{
+	"name": "npp-UDL-list",
+	"version": "1.0",
+	"UDLs": [
+		{
+			"id-name": "RouterOS Script",
+			"display-name": "RouterOS Script - NieL™",
+			"version": "2023-06-01",
+			"repository": "",
+			"description": "Syntax for the Mikrotik RouterOS Script, it is unofficial UDL to help scripting your mikrotik. Highlighting syntax somewhat helpful of detecting error inputs",
+			"author": "NieL™ TechSolution"
+		}
+	]
+}
